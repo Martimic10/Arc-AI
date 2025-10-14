@@ -2,7 +2,8 @@
 
 A modern, responsive landing page for Arc AI - an intelligent code editor platform. Built with React, Vite, and Tailwind CSS.
 
-![Arc AI Preview](./preview.png)
+Preview the landing page at: [
+](https://arc-ai-eight.vercel.app/)
 
 ## 🚀 Features
 
@@ -24,7 +25,7 @@ A modern, responsive landing page for Arc AI - an intelligent code editor platfo
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/arc-ai-landing.git
+git clone https://github.com/YOUR_USERNAME/Arc-AI.git
 
 # Navigate to project directory
 cd arc-ai-landing
