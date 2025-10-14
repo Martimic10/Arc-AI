@@ -55,7 +55,7 @@ MIT License - feel free to use this project for your portfolio!
 
 ## 👨‍💻 Author
 
-Michael Martinez - [Your Portfolio](https://yourportfolio.com)
+Michael Martinez - [Your Portfolio](https://michaelrmartinez.dev)
 ```
 
 ## 📁 Step 2: Create .gitignore (if not exists)
