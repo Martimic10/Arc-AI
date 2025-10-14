@@ -1,16 +1,90 @@
-# React + Vite
+# Arc AI Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page for Arc AI - an intelligent code editor platform. Built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+![Arc AI Preview](./preview.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⚡ Built with React 18 and Vite
+- 🎨 Styled with Tailwind CSS
+- 🎭 Animated gradient title
+- 💫 Interactive hover effects
+- 📱 Fully responsive design
+- 🌈 Modern purple/pink gradient theme
+- ✨ Matrix-style animated background
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- React 18
+- Vite
+- Tailwind CSS
+- Lucide React (icons)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/arc-ai-landing.git
+
+# Navigate to project directory
+cd arc-ai-landing
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+## 🏗️ Build for Production
+```bash
+npm run build
+```
+
+## 🌐 Deployment
+
+This project can be easily deployed to:
+- Vercel
+- Netlify
+- GitHub Pages
+
+## 📄 License
+
+MIT License - feel free to use this project for your portfolio!
+
+## 👨‍💻 Author
+
+Michael Martinez - [Your Portfolio](https://yourportfolio.com)
+```
+
+## 📁 Step 2: Create .gitignore (if not exists)
+
+Create/update `.gitignore` in your project root:
+```
+# Dependencies
+node_modules/
+
+# Production
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Other
+*.log
